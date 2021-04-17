@@ -74,10 +74,12 @@ Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor 
 - 💻 Email: lit2018026@iiitl.ac.in
 - 📝 [Resume](https://drive.google.com/file/d/1ND3fjsP0JEfBBo7Qz8bKL9xoBOxziBui/view)
 
-</br>
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ## 
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+</br>
+
 
 - 🤔 I’m looking for Summer Internship 2021
 - 💬 Ask me about anything, I am happy to help;
