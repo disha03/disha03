@@ -55,7 +55,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
 
 ## Skills
-</br>
 - 👨‍💻 C++ & its STL libraries, Python, Data Structures &  Algorithms
 - 👁️ HTML, CSS, Django Basic
 - 💽 MySQL, SQL, SQlite
@@ -68,7 +67,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
  
 ## Contact
-</br>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
 - 📞 Contact: +91 6266915926
