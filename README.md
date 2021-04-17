@@ -45,7 +45,7 @@ Hi  👋, I'm Disha Gupta, Dedicated and Self Motivated Pre-final year student p
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
   
 - 💬 Ask me about anything, I am happy to help;
