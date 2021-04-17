@@ -1,6 +1,6 @@
 
 
-![Hi, I'm Disha Gupta 👋 I'm a 🚀 Prefinal year Undergrad 🚀 Coder  👩🏽‍💻 Developer](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+
 
 <!--
 how to make this gif ?
