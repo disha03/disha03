@@ -53,19 +53,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
- **Languages and Tools:**  
+
 ## Skills
+</br>
 - 👨‍💻 C++ & its STL libraries, Python, Data Structures &  Algorithms
 - 👁️ HTML, CSS, Django Basic
 - 💽 MySQL, SQL, SQlite
 - ⚙️ Linux, Software Engineering , Git/Github
-
+</br>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-  
+ 
+## Contact
+</br>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
 - 📞 Contact: +91 6266915926
