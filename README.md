@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/disha03">
   <img align="left" alt="Disha Github" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" />
 </a>
-<a href="lit2018026@iiitl.ac.in">
+<a >lit2018026@iiitl.ac.in
   <img align="left" alt="Disha Gupta | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" />
 </a>
 </br>
