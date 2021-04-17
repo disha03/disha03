@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <!--
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 Hi  👋, I'm Disha Gupta, Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor of Technology (B.Tech) in Information Technology at Indian Institute of Information Technology Lucknow (IIITL) accustomed to working in fast-paced and deadline-driven environments. Skilled in C++ and it’s STL libraries, Cascading Style Sheets (CSS), HTML, Python and MySQL. Technically-savvy offering the ability to quickly learn new concepts, software and technology. Aiming to leverage the proven and expanding knowledge to stimulate the growth of your company with upcoming challenges.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  
   
