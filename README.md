@@ -54,7 +54,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
  **Languages and Tools:**  
-
+## Skills
+- 👨‍💻 C++ & its STL libraries, Python, Data Structures &  Algorithms
+- 👁️ HTML, CSS, Django Basic
+- 💽 MySQL, SQL, SQlite
+- ⚙️ Linux, Software Engineering , Git/Github
 
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
