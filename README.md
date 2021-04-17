@@ -29,13 +29,17 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 -->
 <a href="https://www.linkedin.com/in/disha-gupta-430188173/">
   <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<a href="lit2018026@iiitl.ac.in" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+
 
 
 
@@ -51,7 +55,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
 - 📞 Contact: +91 6266915926
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 💻 Email: lit2018026@iiitl.ac.in
+- 📝 [Resume](https://drive.google.com/file/d/1ND3fjsP0JEfBBo7Qz8bKL9xoBOxziBui/view)
 
 
 
