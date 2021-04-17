@@ -59,7 +59,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ## Skills
 - 👨‍💻 C++ & its STL libraries, Python, Data Structures &  Algorithms
-- 👁️ HTML, CSS, Django Basic
+- 👁️ HTML, CSS, Django (Basic)
 - 💽 MySQL, SQL, SQlite
 - ⚙️ Linux, Software Engineering , Git/Github
 </br>
