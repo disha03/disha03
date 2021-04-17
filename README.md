@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor of Technology (B.Tech) in Information Technology at Indian Institute of Information Technology Lucknow (IIITL) accustomed to working in fast-paced and deadline-driven environments. Skilled in C++ and it’s STL libraries, Cascading Style Sheets (CSS), HTML, Python and MySQL. Technically-savvy offering the ability to quickly learn new concepts, software and technology. Aiming to leverage the proven and expanding knowledge to stimulate the growth of your company with upcoming challenges.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 
@@ -75,8 +74,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💻 Email: lit2018026@iiitl.ac.in
 - 📝 [Resume](https://drive.google.com/file/d/1ND3fjsP0JEfBBo7Qz8bKL9xoBOxziBui/view)
 
-
-## Extra👇🏽
+</br>
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 🤔 I’m looking for Summer Internship 2021
 - 💬 Ask me about anything, I am happy to help;
