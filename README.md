@@ -75,7 +75,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💻 Email: lit2018026@iiitl.ac.in
 - 📝 [Resume](https://drive.google.com/file/d/1ND3fjsP0JEfBBo7Qz8bKL9xoBOxziBui/view)
 
-</br>
+
 ##Extra👇🏽
 
 - 🤔 I’m looking for Summer Internship 2021
