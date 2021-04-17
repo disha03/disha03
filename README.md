@@ -54,7 +54,7 @@ Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor 
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
  
 
 ## Skills
