@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <a href="lit2018026@iiitl.ac.in">
   <img align="left" alt="Disha Gupta | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" />
 </a>
+</br>
 
 
 
 
-<br />
 
 Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor of Technology (B.Tech) in Information Technology at Indian Institute of Information Technology Lucknow (IIITL) accustomed to working in fast-paced and deadline-driven environments. Skilled in C++ and it’s STL libraries, Cascading Style Sheets (CSS), HTML, Python and MySQL. Technically-savvy offering the ability to quickly learn new concepts, software and technology. Aiming to leverage the proven and expanding knowledge to stimulate the growth of your company with upcoming challenges.
 
