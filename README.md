@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -36,6 +34,9 @@ Here are some ideas to get you started:
 </br>
 <a href="https://www.linkedin.com/in/disha-gupta-430188173/">
   <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://github.com/disha03">
+  <img align="left" alt="Disha Github" width="22px" src="//github.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" />
 </a>
 <a href="lit2018026@iiitl.ac.in">
   <img align="left" alt="Disha Gupta | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" />
