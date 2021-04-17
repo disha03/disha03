@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 
-Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor of Technology (B.Tech) in Information Technology at Indian Institute of Information Technology Lucknow (IIITL) accustomed to working in fast-paced and deadline-driven environments. Skilled in C++ and it’s STL libraries, Cascading Style Sheets (CSS), HTML, Python and MySQL. Technically-savvy offering the ability to quickly learn new concepts, software and technology. Aiming to leverage the proven and expanding knowledge to stimulate the growth of your company with upcoming challenges.
+Dedicated and Self Motivated Pre-final year student pursuing degree of Bachelor of Technology (B.Tech) in Information Technology at Indian Institute of Information Technology Lucknow (IIITL) accustomed to working in fast-paced and deadline-driven environments. Skilled in C++ and it’s STL libraries, Cascading Style Sheets (CSS), HTML, Python and MySQL. Technically-savvy offering the ability to quickly learn new concepts, software and technology. Aiming to leverage the proven and expanding knowledge to stimulate the growth with upcoming challenges.
 
 
 
