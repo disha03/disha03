@@ -72,7 +72,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Contact
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
-- 📞 Contact: +91 6266915926
+- 📞 Phone: +91 6266915926
 - 💻 Email: lit2018026@iiitl.ac.in
 - 📝 [Resume](https://drive.google.com/file/d/1ND3fjsP0JEfBBo7Qz8bKL9xoBOxziBui/view)
 
