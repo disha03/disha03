@@ -84,7 +84,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🤔 I’m looking for Summer Internship 2021
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
-- 😄 I love to Program/Code, play Online Games 💻, Listening Songs🎧🎶
+- 😄 I love to Program/Code, playing Online Games 💻, Listening Songs🎧🎶
 - ⚡ Fun fact: I can write poetries ✒, Act🎬, Sing & can also make Veg Momos😋.
 
 
