@@ -81,7 +81,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </br>
 
 
-- 🤔 I’m looking for Summer Internship 2021
+- 🤔 I’m looking for job opportunity or Internship 2022
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
 - 😄 I love to Program/Code, playing Online Games 💻, Listening Songs🎧🎶
