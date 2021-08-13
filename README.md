@@ -72,7 +72,7 @@ Innovative & Dedicated Pre-final year student pursuing degree of Bachelor of Tec
 ## Contact
 - 📞 Phone: +91 6266915926
 - 💻 Email: lit2018026@iiitl.ac.in
-- 📝 [Resume](https://drive.google.com/file/d/121-G4rkf2aptBoDDCYtjmI0t-l7ktWgZ/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1qJ3T1-XY8oiL4T-MKgiskgO58aOGun3t/view)
 
 
 ## 
