@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Learner || Coder || Developer.
 </br>
 <a href="https://www.linkedin.com/in/disha-gupta-430188173/">
-  <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.sv" />
+  <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg" />
 </a>
 <a href="https://github.com/disha03">
   <img align="left" alt="Disha Github" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" />
