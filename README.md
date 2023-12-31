@@ -73,7 +73,8 @@ Innovative & Dedicated person pursued degree of Bachelor of Technology (B.Tech) 
 - 📞 Phone: +91 6266915926
 - 💻 Email: dishagupta688@gmail.com
 - 💻 Alternate Email: lit2018026@iiitl.ac.in
-- 📝 [Resume]([https://drive.google.com/file/d/1qJ3T1-XY8oiL4T-MKgiskgO58aOGun3t/view](https://drive.google.com/file/d/1XehS7RzQ56RVq90FlOerBlBdF0Fy6YDh/view?usp=sharing))
+- 📝 [Resume](https://drive.google.com/file/d/1XehS7RzQ56RVq90FlOerBlBdF0Fy6YDh/view?usp=sharing)
+- 👩🏽‍💻[Portfolio](https://disha03.github.io/Disha_Portfolio/)
 
 
 ## 
@@ -84,7 +85,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 🤔 Open to explore job opportunities
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
+- 📫 How to reach me: [linkedln@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
 - 😄 I love to Program/Code, playing Online Games 💻, Listening Songs🎧🎶
 - ⚡ Fun fact: I can write poetries ✒, Act🎬, Sing & can also make Veg Momos😋.
 
