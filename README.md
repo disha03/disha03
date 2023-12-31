@@ -58,10 +58,10 @@ Innovative & Dedicated person pursued degree of Bachelor of Technology (B.Tech) 
  
 
 ## Skills
-- 👨‍💻 C++ & its STL libraries, Python, Data Structures &  Algorithms
-- 👁️ HTML, CSS, Django (Basic)
-- 💽 MySQL, SQL, SQlite
-- ⚙️ Linux, Software Engineering , Git/Github
+- 👨‍💻 C++ & its STL libraries, Data Structures &  Algorithms, Golang, gRPC, Kafka, Rest-API, Redis, Python, Gorm, Testify
+- 👁️ HTML, CSS, Django, Labview --> Basic
+- 💽 MySQL, Postgres, SQL, SQlite
+- ⚙️ Linux, Software Engineering , Git/Github, Goland, TablePlus
 </br>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
@@ -71,8 +71,9 @@ Innovative & Dedicated person pursued degree of Bachelor of Technology (B.Tech) 
  
 ## Contact
 - 📞 Phone: +91 6266915926
-- 💻 Email: lit2018026@iiitl.ac.in
-- 📝 [Resume](https://drive.google.com/file/d/1qJ3T1-XY8oiL4T-MKgiskgO58aOGun3t/view)
+- 💻 Email: dishagupta688@gmail.com
+- 💻 Alternate Email: lit2018026@iiitl.ac.in
+- 📝 [Resume]([https://drive.google.com/file/d/1qJ3T1-XY8oiL4T-MKgiskgO58aOGun3t/view](https://drive.google.com/file/d/1XehS7RzQ56RVq90FlOerBlBdF0Fy6YDh/view?usp=sharing))
 
 
 ## 
@@ -81,7 +82,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </br>
 
 
-- 🤔 I’m looking for job opportunity or Internship 2022
+- 🤔 Open to explore job opportunities
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dishagupta](https://www.linkedin.com/in/disha-gupta-430188173/);
 - 😄 I love to Program/Code, playing Online Games 💻, Listening Songs🎧🎶
