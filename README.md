@@ -68,6 +68,8 @@ Innovative & Dedicated person pursued degree of Bachelor of Technology (B.Tech) 
 - 📞 Phone: +91 6266915926
 - 💻 Email: dishagupta688@gmail.com
 - 💻 Alternate Email: lit2018026@iiitl.ac.in
+- 🌍 Current Location: Bengaluru (Karnataka)
+- 🏘️ Hometown Location: Gwalior (M.P.)
 - 📝 [Resume](https://drive.google.com/file/d/1XehS7RzQ56RVq90FlOerBlBdF0Fy6YDh/view?usp=sharing)
 - 👩🏽‍💻[Portfolio](https://disha03.github.io/Disha_Portfolio/)
 
