@@ -63,11 +63,6 @@ Innovative & Dedicated person pursued degree of Bachelor of Technology (B.Tech) 
 - 💽 MySQL, Postgres, SQL, SQlite
 - ⚙️ Linux, Software Engineering , Git/Github, Goland, TablePlus
 </br>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
  
 ## Contact
 - 📞 Phone: +91 6266915926
